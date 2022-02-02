@@ -1,0 +1,7 @@
+package com.zafar.script
+
+/**
+ * @author Zafar
+ *
+ */
+println("groovy is awsome")

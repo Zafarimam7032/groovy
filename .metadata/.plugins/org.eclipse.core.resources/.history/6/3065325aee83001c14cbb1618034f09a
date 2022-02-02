@@ -1,0 +1,10 @@
+package com.zafar.script
+
+int a=30;
+b=50;
+short d=60
+println a +" "+b
+print d;
+print d.getClass()
+println a.getClass()//class java.lang.Integer
+println b.getClass()//class java.lang.Integer

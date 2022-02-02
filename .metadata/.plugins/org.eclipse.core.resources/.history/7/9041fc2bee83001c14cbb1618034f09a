@@ -1,0 +1,8 @@
+package com.zafar.script
+
+int a=30;
+b=50;
+println a +" "+b
+
+println a.getClass()//class java.lang.Integer
+println b.getClass()//class java.lang.Integer

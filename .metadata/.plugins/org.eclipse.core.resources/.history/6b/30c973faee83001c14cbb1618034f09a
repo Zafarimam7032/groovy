@@ -1,0 +1,16 @@
+package com.zafar.script
+
+int a=30;
+b=50;
+short d=60
+byte e=70; //semi clon is optional
+long f=80;
+println f;
+println f.getClass()
+println e
+println e.getClass()
+println a +" "+b
+println d;
+println d.getClass()
+println a.getClass()//class java.lang.Integer
+println b.getClass()//class java.lang.Integer
